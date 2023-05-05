@@ -3,7 +3,7 @@ A catalogue of the data and analysis driving the investigations of MuckRock's ne
 
 
 Date|Title|Repo|Description|Article(s)| Reporting Tipsheet
-----|-----------|:--:|:-----:|:------:
+----|-----------|:--:|:-----:|:------:|:-----:
  2023-04-26 | `missouri-childcare-deserts` | Zip-code level analyais of child care deserts and pandemic funding to those zip codes |  [:floppy_disk:](https://www.muckrock.com/news/archives/2023/may/03/disappearing-daycare-missouri-subsidy/)| [:newspaper:](https://www.muckrock.com/news/archives/2023/may/03/disappearing-daycare-missouri-subsidy/)|[:bulb:](https://www.muckrock.com/news/archives/2023/may/03/disappearing-daycare-missouri-subsidy/)
 
 
